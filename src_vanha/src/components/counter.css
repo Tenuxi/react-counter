@@ -1,0 +1,47 @@
+.counter {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.even {
+    background-color: rgb(67, 67, 211);
+}
+
+.odd {
+    background-color: rgb(231, 55, 55);
+}
+
+.zero {
+    background-color: rgb(105, 105, 105);
+}
+
+.number {
+    margin-top: 80px;
+    font-size: 2.5em;
+}
+
+.buttons {
+    display: inline;
+    margin-top: 20px;
+}
+
+.button {
+    margin: 5px;
+    padding: 5px 25px;
+}
+
+#add-button {
+    background-color: rgb(27, 201, 27);
+    color: white;
+}
+
+#remove-button {
+    background-color: rgb(223, 53, 53);
+    color: white;
+}
+
+#reset-button {
+    background-color: rgb(65, 65, 65);
+    color: white;
+}
